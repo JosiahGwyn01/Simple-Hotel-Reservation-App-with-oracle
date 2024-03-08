@@ -1,0 +1,27 @@
+-- Table 1: Guest
+CREATE TABLE Guest (
+  Guest_ID INT PRIMARY KEY,
+  Name VARCHAR(100),
+  Date_of_Birth DATE,
+  Address VARCHAR(200),
+  Phone_Number VARCHAR(20)
+);
+
+-- Table 2: Room
+CREATE TABLE Room (
+  Room_Number VARCHAR(20) PRIMARY KEY,
+  Room_Type VARCHAR(50),
+  Rate DECIMAL(10, 2),
+  Room_Capacity INT
+);
+
+-- Table 3: Stay
+CREATE TABLE Stay (
+  Guest_ID INT,
+  Room_Number VARCHAR(20),
+  Number_of_Days INT,
+  Fees DECIMAL(10, 2),
+  FOREIGN KEY (Guest_ID) REFERENCES Guest(Guest_ID),
+  FOREIGN KEY (Room_Number) REFERENCES Room(Room_Number)
+);
+

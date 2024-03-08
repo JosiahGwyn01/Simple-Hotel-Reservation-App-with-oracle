@@ -1,0 +1,601 @@
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('001', 'standard', 104.55, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('002', 'standard', 132.36, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('003', 'standard', 149.59, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('004', 'standard', 142.4, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('005', 'standard', 176.06, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('006', 'standard', 197.97, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('007', 'standard', 173.66, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('008', 'standard', 168.9, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('009', 'standard', 150.65, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('010', 'standard', 143.25, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('011', 'standard', 119.75, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('012', 'standard', 179.86, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('013', 'standard', 116.03, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('014', 'standard', 118.53, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('015', 'standard', 100.47, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('016', 'standard', 176.62, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('017', 'standard', 151.69, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('018', 'standard', 126.54, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('019', 'standard', 111.51, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('020', 'standard', 175.94, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('021', 'standard', 195.01, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('022', 'standard', 116.47, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('023', 'standard', 169.4, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('024', 'standard', 161.06, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('025', 'standard', 158.52, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('026', 'standard', 168.07, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('027', 'standard', 149.22, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('028', 'standard', 136.68, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('029', 'standard', 116.1, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('030', 'standard', 150.85, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('031', 'standard', 192.59, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('032', 'standard', 181.38, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('033', 'standard', 181.81, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('034', 'standard', 124.86, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('035', 'standard', 128.05, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('036', 'standard', 188.47, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('037', 'standard', 159.38, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('038', 'standard', 120.11, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('039', 'standard', 166.16, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('040', 'standard', 116.64, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('041', 'standard', 144.79, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('042', 'standard', 157.82, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('043', 'standard', 122.28, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('044', 'standard', 174.85, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('045', 'standard', 190.78, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('046', 'standard', 182.84, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('047', 'standard', 172.65, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('048', 'standard', 153.45, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('049', 'standard', 194.63, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('050', 'standard', 185.05, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('051', 'standard', 185.6, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('052', 'standard', 144.65, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('053', 'standard', 102.2, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('054', 'standard', 156.18, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('055', 'standard', 194.02, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('056', 'standard', 121.92, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('057', 'standard', 116.72, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('058', 'standard', 165.42, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('059', 'standard', 175.45, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('060', 'standard', 100.73, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('061', 'standard', 178.54, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('062', 'standard', 178.63, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('063', 'standard', 191.54, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('064', 'standard', 192.35, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('065', 'standard', 115.83, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('066', 'standard', 164.1, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('067', 'standard', 168.06, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('068', 'standard', 199.06, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('069', 'standard', 113.47, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('070', 'standard', 119.17, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('071', 'standard', 157.13, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('072', 'standard', 121.07, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('073', 'standard', 148.33, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('074', 'standard', 163.21, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('075', 'standard', 103.8, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('076', 'standard', 185.28, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('077', 'standard', 181.0, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('078', 'standard', 159.09, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('079', 'standard', 191.25, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('080', 'standard', 155.78, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('081', 'standard', 156.05, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('082', 'standard', 147.72, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('083', 'standard', 191.19, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('084', 'standard', 124.9, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('085', 'standard', 188.01, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('086', 'standard', 139.32, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('087', 'standard', 108.28, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('088', 'standard', 147.9, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('089', 'standard', 119.16, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('090', 'standard', 165.86, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('091', 'standard', 120.0, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('092', 'standard', 173.24, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('093', 'standard', 159.49, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('094', 'standard', 195.17, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('095', 'standard', 127.61, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('096', 'standard', 186.02, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('097', 'deluxe', 308.76, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('098', 'deluxe', 298.42, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('099', 'deluxe', 344.52, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('100', 'deluxe', 334.48, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('101', 'deluxe', 285.45, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('102', 'deluxe', 329.78, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('103', 'deluxe', 333.02, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('104', 'deluxe', 325.88, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('105', 'deluxe', 337.84, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('106', 'deluxe', 337.91, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('107', 'deluxe', 281.98, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('108', 'deluxe', 338.79, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('109', 'deluxe', 332.6, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('110', 'deluxe', 287.24, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('111', 'deluxe', 277.85, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('112', 'deluxe', 326.72, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('113', 'deluxe', 319.45, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('114', 'deluxe', 294.65, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('115', 'deluxe', 338.17, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('116', 'deluxe', 334.29, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('117', 'deluxe', 323.31, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('118', 'deluxe', 254.44, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('119', 'deluxe', 319.42, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('120', 'deluxe', 292.08, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('121', 'deluxe', 314.79, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('122', 'deluxe', 290.85, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('123', 'deluxe', 320.09, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('124', 'deluxe', 307.3, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('125', 'deluxe', 262.87, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('126', 'deluxe', 317.13, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('127', 'deluxe', 304.59, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('128', 'deluxe', 324.21, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('129', 'deluxe', 276.06, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('130', 'deluxe', 330.75, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('131', 'deluxe', 349.21, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('132', 'deluxe', 345.98, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('133', 'deluxe', 270.94, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('134', 'deluxe', 320.13, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('135', 'deluxe', 298.98, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('136', 'deluxe', 270.52, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('137', 'deluxe', 286.51, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('138', 'deluxe', 261.46, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('139', 'deluxe', 331.71, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('140', 'deluxe', 320.03, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('141', 'deluxe', 333.76, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('142', 'deluxe', 261.96, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('143', 'deluxe', 312.8, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('144', 'deluxe', 259.99, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('145', 'deluxe', 344.02, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('146', 'deluxe', 293.51, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('147', 'deluxe', 255.24, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('148', 'deluxe', 256.72, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('149', 'deluxe', 269.17, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('150', 'deluxe', 343.25, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('151', 'deluxe', 278.34, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('152', 'deluxe', 347.1, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('153', 'deluxe', 329.93, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('154', 'deluxe', 343.94, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('155', 'deluxe', 309.26, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('156', 'deluxe', 308.78, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('157', 'deluxe', 324.72, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('158', 'deluxe', 324.94, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('159', 'deluxe', 276.16, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('160', 'deluxe', 325.23, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('161', 'deluxe', 277.15, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('162', 'deluxe', 265.33, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('163', 'deluxe', 341.62, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('164', 'deluxe', 342.43, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('165', 'deluxe', 326.29, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('166', 'deluxe', 328.12, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('167', 'deluxe', 251.43, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('168', 'deluxe', 302.85, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('169', 'deluxe', 292.58, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('170', 'deluxe', 302.21, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('171', 'deluxe', 274.19, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('172', 'deluxe', 280.56, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('173', 'deluxe', 348.32, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('174', 'deluxe', 345.76, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('175', 'deluxe', 312.18, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('176', 'deluxe', 266.38, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('177', 'deluxe', 347.76, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('178', 'deluxe', 265.04, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('179', 'deluxe', 335.54, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('180', 'deluxe', 267.94, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('181', 'deluxe', 264.64, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('182', 'deluxe', 299.32, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('183', 'deluxe', 342.58, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('184', 'deluxe', 271.89, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('185', 'deluxe', 273.27, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('186', 'deluxe', 302.39, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('187', 'deluxe', 293.04, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('188', 'deluxe', 277.25, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('189', 'deluxe', 274.57, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('190', 'deluxe', 288.46, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('191', 'deluxe', 293.1, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('192', 'deluxe', 306.0, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('193', 'deluxe', 288.45, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('194', 'deluxe', 289.6, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('195', 'deluxe', 325.83, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('196', 'deluxe', 346.16, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('197', 'deluxe', 271.43, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('198', 'deluxe', 339.79, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('199', 'deluxe', 274.07, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('200', 'deluxe', 324.08, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('201', 'deluxe', 300.21, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('202', 'deluxe', 257.2, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('203', 'deluxe', 329.36, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('204', 'deluxe', 267.42, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('205', 'deluxe', 278.59, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('206', 'deluxe', 274.49, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('207', 'suite', 469.1, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('208', 'suite', 516.87, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('209', 'suite', 550.64, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('210', 'suite', 453.39, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('211', 'suite', 481.74, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('212', 'suite', 415.1, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('213', 'suite', 585.21, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('214', 'suite', 501.74, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('215', 'suite', 442.56, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('216', 'suite', 508.49, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('217', 'suite', 513.83, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('218', 'suite', 424.49, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('219', 'suite', 609.84, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('220', 'suite', 449.81, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('221', 'suite', 578.62, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('222', 'suite', 608.4, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('223', 'suite', 539.41, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('224', 'suite', 495.78, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('225', 'suite', 454.19, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('226', 'suite', 403.77, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('227', 'suite', 549.19, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('228', 'suite', 626.4, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('229', 'suite', 414.3, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('230', 'suite', 553.02, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('231', 'suite', 628.41, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('232', 'suite', 506.54, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('233', 'suite', 479.56, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('234', 'suite', 496.56, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('235', 'suite', 601.69, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('236', 'suite', 423.82, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('237', 'suite', 642.9, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('238', 'suite', 444.78, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('239', 'suite', 527.25, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('240', 'suite', 593.61, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('241', 'suite', 449.57, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('242', 'suite', 499.69, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('243', 'suite', 534.88, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('244', 'suite', 576.88, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('245', 'suite', 562.53, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('246', 'suite', 493.03, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('247', 'suite', 609.91, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('248', 'suite', 452.99, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('249', 'suite', 487.9, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('250', 'suite', 424.01, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('251', 'suite', 466.9, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('252', 'suite', 416.81, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('253', 'suite', 643.55, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('254', 'suite', 503.6, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('255', 'suite', 447.59, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('256', 'suite', 517.75, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('257', 'suite', 466.03, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('258', 'suite', 524.36, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('259', 'suite', 474.64, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('260', 'suite', 511.1, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('261', 'suite', 525.02, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('262', 'suite', 541.16, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('263', 'suite', 493.86, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('264', 'suite', 460.46, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('265', 'suite', 644.08, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('266', 'suite', 520.92, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('267', 'suite', 419.5, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('268', 'suite', 451.74, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('269', 'suite', 621.78, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('270', 'suite', 623.52, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('271', 'suite', 621.57, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('272', 'suite', 646.71, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('273', 'suite', 458.2, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('274', 'suite', 528.22, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('275', 'suite', 402.33, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('276', 'suite', 572.66, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('277', 'suite', 432.23, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('278', 'suite', 618.44, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('279', 'suite', 642.74, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('280', 'suite', 523.62, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('281', 'suite', 449.51, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('282', 'suite', 521.46, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('283', 'suite', 457.42, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('284', 'suite', 583.81, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('285', 'suite', 591.14, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('286', 'suite', 545.79, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('287', 'suite', 617.25, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('288', 'suite', 602.64, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('289', 'suite', 404.05, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('290', 'suite', 539.61, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('291', 'suite', 649.83, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('292', 'suite', 560.29, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('293', 'suite', 414.24, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('294', 'suite', 575.84, 1);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('295', 'suite', 625.71, 2);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('296', 'suite', 549.99, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('297', 'suite', 468.54, 4);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('298', 'suite', 647.24, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('299', 'suite', 515.98, 3);
+INSERT INTO Room (Room_Number, Room_Type, Rate, room_capacity)
+VALUES ('300', 'suite', 400.66, 1);
+
